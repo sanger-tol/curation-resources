@@ -178,3 +178,20 @@ optional arguments:
 ```
 
 ### BUSCO synteny
+```
+Usage: $0 [REQUIRED -r reference_species.fasta, -q query_species.fasta -l busco_lineage] [OPTIONAL -u Query_ID, -f Ref_ID,-p wd_path, -k]
+
+Note that both reference and query fasta headers must have chromsome names as 'SUPER_n'
+
+REQUIRED:
+  -r [file] Reference species Fasta file
+  -q [file] Query species fasta file
+  -l [text] Name of BUSCO lineage to test against
+OPTIONAL:
+  -f [text] reF short ID - two letter abbreviation for reference species (default = $ref_short_id)
+  -u [text] qUery short ID - two letter abbreviation for query species (default = $query_short_id)
+  -p [dir] Path to directory containing files (default = $myDirPath)
+  -k  add this flag to keep BUSCO output files - all BUSCO files other than the full_table.tsv will be removed by default
+
+```
+
