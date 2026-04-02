@@ -149,9 +149,9 @@ Options:
 
 See https://github.com/sanger-tol/agp-tpf-utils# for complete documentation
 
-### Other scripts
+## Other scripts
 
-Telomere identification script [telo_finder.py](-/blob/main/telo_finder.py):
+### Telomere identification script [telo_finder.py](-/blob/main/telo_finder.py):
 
 The telo_finder script aims to detect likely telomere motifs in assemblies.
 It assumes the assemblies are high quality (hi-fi or similar) and that there are a number of chromosomes (it won't return a result with just one chromosome for example).
@@ -177,3 +177,4 @@ optional arguments:
   
 ```
 
+### BUSCO synteny
