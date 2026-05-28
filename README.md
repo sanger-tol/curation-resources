@@ -8,6 +8,8 @@ This section will cover the curation tools and how they work.
 
 [Slack Channel for curation assembly help](https://join.slack.com/t/assemblycuration/shared_invite/zt-1kx2ww71y-823ruaAxswgQGypgofBaOA)
 
+[Curation website](https://curation.tol.sanger.ac.uk/) with tutorial videos:
+* [Introduction](https://curation.tol.sanger.ac.uk/intro-series)
 
 PretextView tutorial:
 * [YouTube video 1](https://youtu.be/3IL2Q4f3k3I)
