@@ -11,7 +11,7 @@ This section will cover the curation tools and how they work.
 [Curation website](https://curation.tol.sanger.ac.uk/) with tutorial videos:
 * [Introduction](https://curation.tol.sanger.ac.uk/intro-series)
 
-PretextView tutorial:
+Other videos:
 * [YouTube video 1](https://youtu.be/3IL2Q4f3k3I)
 * [BGA24: Introduction to Manual Curation](https://www.youtube.com/watch?v=qlWZlFXy07w)
 
