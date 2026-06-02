@@ -197,3 +197,7 @@ OPTIONAL:
 
 ```
 
+### Rename and orient chromsomes to reference
+
+[README](https://github.com/zilov/curation_scripts/blob/main/rename_and_orient_fasta_to_reference/README.md)
+
